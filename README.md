@@ -1,1 +1,1 @@
-# Analytical-Models-For-Supply-Chain
+# Analytical-Decision-Models-For-Supply-Chain
